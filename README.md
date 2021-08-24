@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://](https://your-solution-url.com)
-- Live Site URL: [https://](https://your-live-site-url.com)
+- Solution URL: [Click Here](https://github.com/Matse2005/frontendmentor-stats-preview-card-component)
+- Live Site URL: [Click Here](https://frontendmentor-stats-preview-card-component.vercel.app/)
 
 ### Built with
 
